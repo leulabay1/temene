@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # temene
 =======
 # Temene - Udemy-Like Web App
