@@ -1,11 +1,7 @@
 
-# temene
-=======
 # Temene - Udemy-Like Web App
 
 Temene is a Udemy-like web application that allows users to access a wide range of online courses on various topics. This project is built using Angular for the frontend and NestJS for the backend. It provides a rich learning experience for both instructors and students.
-
-![Temene Screenshot](temene-screenshot.png)
 
 ## Table of Contents
 
