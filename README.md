@@ -83,5 +83,3 @@ Follow these steps to set up and run Temene on your local machine.
 
   ```
 4. The backend will be running at http://localhost:3000.
-   
->>>>>>> fa87da7 (intial commit)
