@@ -10,7 +10,7 @@ Temene is a Udemy-like web application that allows users to access a wide range 
 - [Getting Started](#getting-started)
   - [Frontend](#frontend)
   - [Backend](#backend)
-=
+
 ## Features
 
 - User authentication and authorization.
